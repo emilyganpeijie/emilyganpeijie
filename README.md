@@ -23,10 +23,6 @@ Scrapes and preprocesses the Bible in **English and Mandarin**, producing a data
 A chatbot recommending daily nutrient intake based on age and gender  
 [GitHub](https://github.com/emilyganpeijie/nutrition_bot)
 
-### **Japanese SVO Extractor**
-Extracts Subject–Verb–Object triples from Japanese sentences  
-[GitHub](https://github.com/emilyganpeijie/japanese_SOV_extractor)
-
 ### **Keyword Sentence Extractor**
 Finds sentences containing specific keywords in large corpora  
 [GitHub](https://github.com/emilyganpeijie/keyword_sentence_extractor)
