@@ -32,7 +32,7 @@ Finds sentences containing specific keywords in large corpora
 ## 📫 Contact
 
 - Email: ganpeijie3@gmail.com  
-- Portfolio: [Linkedin](www.linkedin.com/in/emily-cumming-4067551b3)  
+- Portfolio: [Linkedin](https://www.linkedin.com/in/emily-cumming-4067551b3/)  
 
 ---
 
